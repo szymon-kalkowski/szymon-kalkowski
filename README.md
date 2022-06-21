@@ -1,16 +1,13 @@
-### Hi there 👋
+# Szymon Kalkowski
 
-<!--
-**szymon-kalkowski/szymon-kalkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm a Compuer Science student at University of Gdańsk and a beginner Web Developer at my free time. 
 
-Here are some ideas to get you started:
+🖥️ Skills: 
+- Python/Django
+- JavaScript/React/TypeScript
+- HTML/CSS/Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- https://www.linkedin.com/in/szymon-kalkowski-075a89236/
+- https://www.foxtry.pl/
+- https://www.facebook.com/szymon.kalkowski.9
