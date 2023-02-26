@@ -7,6 +7,10 @@
 - JavaScript/React/TypeScript
 - HTML/CSS/Bootstrap
 
+📚 Currently learning:
+- Java
+- Go
+
 📫 How to reach me:
 - https://www.linkedin.com/in/szymon-kalkowski-075a89236/
 - https://www.foxtry.pl/
