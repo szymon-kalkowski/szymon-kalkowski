@@ -1,6 +1,6 @@
 # Szymon Kalkowski
 
-### Hi there 👋 I'm a Compuer Science student at University of Gdańsk and a beginner Web Developer at my free time. 
+### Hi there 👋 I'm a Computer Science student at University of Gdańsk and a beginner Web Developer at my free time. 
 
 🖥️ Skills: 
 - Python/Django
