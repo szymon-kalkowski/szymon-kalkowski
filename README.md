@@ -10,6 +10,7 @@
 📚 Currently learning:
 - Java
 - Go
+- Angular
 
 📫 How to reach me:
 - https://www.linkedin.com/in/szymon-kalkowski-075a89236/
